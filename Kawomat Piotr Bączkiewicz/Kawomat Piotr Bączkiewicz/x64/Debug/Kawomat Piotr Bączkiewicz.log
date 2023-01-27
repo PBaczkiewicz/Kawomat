@@ -1,0 +1,4 @@
+﻿  Kawomat Piotr Bączkiewicz.cpp
+C:\Users\RaV21\source\repos\Kawomat Piotr Bączkiewicz\Kawomat Piotr Bączkiewicz\Kawomat Piotr Bączkiewicz.cpp(100,17): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\RaV21\source\repos\Kawomat Piotr Bączkiewicz\Kawomat Piotr Bączkiewicz\Kawomat Piotr Bączkiewicz.cpp(103,17): warning C4305: "-=": obcięcie z "double" do "float"
+  Kawomat Piotr Bączkiewicz.vcxproj -> C:\Users\RaV21\source\repos\Kawomat Piotr Bączkiewicz\x64\Debug\Kawomat Piotr Bączkiewicz.exe
